@@ -1,0 +1,32 @@
+{
+  "name": "node-google-sheets-logger",
+  "version": "1.0.0",
+  "description": "NodeJS module to allow quick and easy data logging to Google Sheets using OAuth credentials",
+  "main": "./node-google-sheets-logger.js",
+  "keywords": [
+    "Google",
+    "Spreadsheets",
+    "Sheets",
+    "Data Logging",
+    "Logging"
+  ],
+  "author": "Dal Hundal",
+  "license": "MIT",
+  "readmeFileame": "README.md",
+  "homepage": "https://github.com/dalhundal/node-google-sheets-logger",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dalhundal/node-google-sheets-logger"
+  },
+  "bugs": {
+    "url": "https://github.com/dalhundal/node-google-sheets-logger/issues"
+  },
+  "dependencies": {
+    "underscore": "^1.7.0",
+    "data2xml": "^1.2.0",
+    "q": "^1.1.2",
+    "refresh-token": "^0.1.0",
+    "moment": "^2.9.0",
+    "request": "^2.51.0"
+  }
+}
